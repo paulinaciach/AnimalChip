@@ -48,7 +48,8 @@ adnotacji.</li>
 
 ## Ilustracje
 
-
-
-
-  
+![image](https://user-images.githubusercontent.com/35393983/152697301-7f1d10ec-be44-4d35-aa7e-2666ce169f24.png)
+![2](https://user-images.githubusercontent.com/35393983/152697236-48c7ffcc-aecc-4020-8538-574a1af0fd19.JPG)
+![3](https://user-images.githubusercontent.com/35393983/152697235-44e00b74-6292-46a3-a527-9087a93356f4.JPG)
+![4](https://user-images.githubusercontent.com/35393983/152697232-ec2edc62-4dcf-476d-96cc-62ff4f379bde.JPG)
+![5](https://user-images.githubusercontent.com/35393983/152697230-3a8a3e99-a08b-409b-97ae-66679760e127.JPG)
