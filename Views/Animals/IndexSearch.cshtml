@@ -1,0 +1,29 @@
+﻿@model IEnumerable<AnimalChip.Models.Animal>
+
+@{
+    ViewData["Title"] = "Index";
+}
+   @TempData["Message"]
+
+<h1>Animal basic search</h1>
+
+
+<div>
+
+    @if (Model.Count() == 0)
+    {
+    <p>There is no Animal with given chip: @TempData["Message"].</p>
+
+    }
+    else
+    {
+
+<p> The Animal with given chip  @TempData["Message"] has been found. For more infomration such as Name, Kind, Breed etc. please log in. </p>
+
+    }
+
+</div>
+
+<div>
+    <a asp-action="Search">Back to Search</a>
+</div>

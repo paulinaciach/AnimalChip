@@ -1,0 +1,13 @@
+﻿@page
+@model AnimalChip.Views.Home.AccessDeniedPathInfoModel
+@{
+}
+
+@{
+    ViewBag.Title = "Login Error";
+}
+
+<div class="alert alert-danger mt-1 mb-1">
+    <h4>Couldn't log in with facebook, please try again</h4>
+</div>
+<a asp-action="Index" asp-controller="Home" class="btn btn-outline-success">Click here to get back to list</a>
