@@ -1,5 +1,5 @@
 # AnimalChip
-#### Serwis internetowy, w którym  w którym rejestrowane chipy zwierząt domowych.
+#### Serwis internetowy, w którym rejestrowane chipy zwierząt domowych.
 
 ## Spis treści 
 * [Wprowadzenie](#wprowadzenie)
